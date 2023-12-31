@@ -1,0 +1,9 @@
+{
+  "env": {
+    "DB_USER": "Laphoenix",
+    "DB_PASSWORD": "samuels12",
+    "DB_NAME": "MERN",
+    "GOOGLE_API": "...",
+    "JWT_KEY": "samuels12Laphoenix"
+  }
+}
